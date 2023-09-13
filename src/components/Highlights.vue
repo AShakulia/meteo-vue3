@@ -19,7 +19,7 @@ import { computed } from 'vue';
   });
 </script>
 <template>
-  <div v-if="weatherInfo?.weather" class="section highlights">
+  <div class="section highlights">
     <div class="title">
         Today's Highlights
     </div>
